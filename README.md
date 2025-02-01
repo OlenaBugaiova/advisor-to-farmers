@@ -10,9 +10,6 @@ RAG
 - [Retrieval Optimization: From Tokenization to Vector Quantization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)
 - [Knowledge Graphs and LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-vs-rag/)
 
-LLM domain adaptation case study
-- [LLM domain adaptation using continued pre-training](https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1)
-
 Question Answering
 
 - [Question Answering with Large Documents](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/use-cases/document-qa/question_answering_documents.ipynb)
@@ -20,3 +17,7 @@ Question Answering
 Evaluation
 
 - [The LLM Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook)
+
+Model choice
+- [LLM domain adaptation using continued pre-training](https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7)
+
