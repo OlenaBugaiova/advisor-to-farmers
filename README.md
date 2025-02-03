@@ -3,12 +3,16 @@ Large Language Models (LLMs) succeeded across domains while not yet being explor
 
 Read about potential challenges and use cases of using LLMs in the agricultural sector - [Embracing Generative AI in Agriculture](https://graindatasolutions.com/generative-ai-agriculture-farming-efficiency/)
 
+LLM
+- [Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
+  
 RAG
 
 - [RAG makes LLMs better and equal](https://www.pinecone.io/blog/rag-study/)
 - [Development and evaluation strategies](https://youtu.be/U-pNqCfu5zw?si=P4YvsfZKM5MG0T6x)
 - [Retrieval Optimization: From Tokenization to Vector Quantization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)
 - [Knowledge Graphs and LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-vs-rag/)
+- [A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag?tab=readme-ov-file)
 
 Question Answering
 
@@ -17,7 +21,3 @@ Question Answering
 Evaluation
 
 - [The LLM Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook)
-
-Model choice
-- [LLM domain adaptation using continued pre-training](https://medium.com/@aris.tsakpinis/llm-domain-adaptation-using-continued-pre-training-part-4-4-e4fc3acffac7)
-
