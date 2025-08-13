@@ -1,5 +1,7 @@
 # Advisor to farmers
-Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. We want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language
+Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. We want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language, [see presentation](https://github.com/OlenaBugaiova/advisor-to-farmers/blob/c2a5c93f0413e64eb19df2c34bbefd1d7c8772bc/documentation/presentation/advisor%20in%20agriculture.pdf)
+
+___
 
 Read about potential challenges and use cases of using LLMs in the agricultural sector - [Embracing Generative AI in Agriculture](https://graindatasolutions.com/generative-ai-agriculture-farming-efficiency/)
 
