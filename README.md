@@ -18,7 +18,7 @@ RAG
 
 Question Answering
 
-- [Question Answering with Large Documents](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/use-cases/document-qa/question_answering_documents.ipynb)
+- [Question Answering with Large Documents](https://github.com/GoogleCloudPlatform/generative-ai/blob/1ccabadcde5c813967f31151c77d80801620c099/search/retrieval-augmented-generation/examples/question_answering.ipynb)
 
 Evaluation
 
