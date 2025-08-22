@@ -1,5 +1,5 @@
 # Advisor to farmers
-Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. We want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language, [see presentation](https://github.com/OlenaBugaiova/advisor-to-farmers/blob/c2a5c93f0413e64eb19df2c34bbefd1d7c8772bc/documentation/presentation/advisor%20in%20agriculture.pdf)
+Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. We want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language, [see presentation](https://github.com/OlenaBugaiova/advisor-to-farmers/blob/12b8ad0abaece8673235ea2881c57cb84a2af90e/documentation/presentation/advisor%20in%20agriculture.pdf)
 
 ___
 
