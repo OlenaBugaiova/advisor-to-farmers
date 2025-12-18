@@ -1,25 +1,5 @@
-# Advisor to farmers
-Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. We want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language, [see presentation](https://github.com/OlenaBugaiova/advisor-to-farmers/blob/12b8ad0abaece8673235ea2881c57cb84a2af90e/documentation/presentation/advisor%20in%20agriculture.pdf)
+# AI chat about agriculture
+Large Language Models (LLMs) succeeded across domains while not yet being explored enough in agriculture. I want to adapt LLM to the domain of Norwegian Agriculture within the Norwegian language, [see presentation](https://github.com/OlenaBugaiova/advisor-to-farmers/blob/main/documentation/presentation/AI%20chat%20about%20agriculture.pdf)
 
-___
-
+---
 Read about potential challenges and use cases of using LLMs in the agricultural sector - [Embracing Generative AI in Agriculture](https://graindatasolutions.com/generative-ai-agriculture-farming-efficiency/)
-
-LLM
-- [Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
-  
-RAG
-
-- [RAG makes LLMs better and equal](https://www.pinecone.io/blog/rag-study/)
-- [Development and evaluation strategies](https://youtu.be/U-pNqCfu5zw?si=P4YvsfZKM5MG0T6x)
-- [Retrieval Optimization: From Tokenization to Vector Quantization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)
-- [Knowledge Graphs and LLMs: Fine-Tuning vs. Retrieval-Augmented Generation](https://neo4j.com/developer-blog/fine-tuning-vs-rag/)
-- [A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag?tab=readme-ov-file)
-
-Question Answering
-
-- [Question Answering with Large Documents](https://github.com/GoogleCloudPlatform/generative-ai/blob/1ccabadcde5c813967f31151c77d80801620c099/search/retrieval-augmented-generation/examples/question_answering.ipynb)
-
-Evaluation
-
-- [The LLM Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook)
