@@ -1,0 +1,252 @@
+Skog og jord
+1. Hvor mye nitrogengjødsel bør jeg bruke på kornet mitt for å få optimal avling? 
+Du kan bruke en nitrogengjeldskalkulator som beregner økonomisk og miljømessig optimal mengde basert på kornslag, forventet avlingsnivå og gjeldende priser på korn og gjødsel.
+2. Hva er fordelen med mykorrhiza for plantene på jordet mitt? 
+Mykorrhiza er en symbiose mellom sopp og planterøtter som fungerer som en forlengelse av røttene, noe som hjelper plantene med å ta opp næring mer effektivt fra jorda.
+3. Hvordan påvirker spredemåten effekten av husdyrgjødsla mi? 
+Gjødseleffekten påvirkes direkte av både hvordan du sprer den og værforholdene ved spredning; nitrogenopptaket i vekstene kan beregnes ved hjelp av spesifikke kalkulatorer som tar hensyn til ammoniakktap og utvasking.
+4. Hvor kan jeg finne informasjon om jordkvaliteten på mine teiger? 
+Du kan bruke kartportalen Kilden for å finne jordsmonnskart som viser egenskaper som dreneringsgrad, tekstur i plogsjiktet og jordkvalitetsklasser for dine arealer.
+5. Er det lønnsomt for meg å gjødsle skogen min med nitrogen? 
+Gjødsling i skog som nærmer seg hogstmodenhet (hogstklasse IV) kan gi en investeringsavkastning på mellom 5 % og 40 %, da det øker både volumet og verdien på tømmeret.
+6. Hva er forskjellen på fulldyrka og overflatedyrka jord i arealressurskartet AR5? 
+Fulldyrka jord kan fornyes ved pløying, mens overflatedyrka jord er ryddet og jevnet slik at den kan høstes maskinelt, men den er ikke pløyd til vanlig pløydybde.
+7. Hvordan bør jeg gå frem for å forynge skogen etter en flatehogst? 
+Etter flatehogst er det vanligst å plante 200–250 planter per dekar, og det anbefales å bruke foredlet plantemateriale som er klimatilpasset din lokalitet.
+8. Hva må jeg gjøre hvis jeg vil importere frø til juletreproduksjon? 
+Du må søke om brukstillatelse hos kontrollutvalget for skogfrø og skogplanter, samt sørge for at plantematerialet blir kontrollert for skadegjørere ved mottak i henhold til regelverk fra Mattilsynet.
+9. Hvilken risiko utgjør stor granbarkbille for skogen min? 
+Stor granbarkbille kan drepe friske grantrær, spesielt hvis skogen er svekket av tørke eller det er store mengder biller etter varme somre som tillater to generasjoner.
+10. Hvordan kan jeg øke karbonlagringen i engarealene mine? 
+Karbonlagringen påvirkes av hvordan du forvalter arealet, og det finnes nasjonale oversikter over moldinnhold som kan hjelpe deg å forstå tilstanden og potensialet for karbonbinding i din jord.
+11. Når er det riktig tidspunkt for å utføre ungskogpleie? 
+Ungskogpleie, som inkluderer lauvrydding og avstandsregulering, bør utføres når bestandet er mellom 1 og 5 meter høyt for å sikre god produksjon og fremtidig verditilvekst.
+12. Hvilke krav gjelder for driveplikten på jordbruksarealet mitt? 
+Jordlova krever at alt jordbruksareal skal drives, men du kan søke om fritak dersom det for eksempel er svært ulønnsomt eller urasjonelt å drive arealet.
+13. Hvordan kan jeg bruke satellittdata til å overvåke skogskader? 
+Satellitter som Sentinel-2 kan brukes til å kartlegge grupper av døde trær forårsaket av tørke eller barkbiller, slik at du raskt kan fjerne infiserte trær før billene sprer seg.
+14. Hva er fordelen med å ha blandingsskog av gran og furu? 
+Blandingsskog kan redusere risikoen for stormskader og spredning av råte, samtidig som treslagene utnytter ressursene i jorda bedre ved å ha ulike rotsystemer.
+15. Hva bør jeg tenke på hvis jeg vurderer å bygge på eksisterende gårdsbygninger med tre?
+Trekonstruksjoner har lav egenvekt, noe som gjør dem godt egnet for påbygg på eldre konstruksjoner i betong eller mur, da de påfører eksisterende fundamenter mindre tilleggsbelastning.
+16. Hvordan sjekker jeg om mine eiendomsgrenser stemmer i Gårdskart? 
+Du kan logge inn i Gårdskart-tjenesten, som henter eiendomsgrenser fra Matrikkelen og markslag fra AR5; vær oppmerksom på at disse grensene ikke alltid er rettslig gyldige og kan variere i nøyaktighet.
+17. Hvilke miljøkrav stilles hvis jeg søker tilskudd til skoggjødsling? 
+For å få støtte må du følge spesifikke miljøkrav, som å unngå gjødsling nær vann og vassdrag (gjødslingsfrie kantsoner) og ikke gjødsle områder med spesielle miljøverdier eller sjeldne arter.
+18. Hvordan påvirker hellingen på jordet mitt risikoen for erosjon? 
+Helling er en kritisk faktor for erosjonsrisiko, og det finnes egne hellingskart for jordbruksareal som klassifiserer arealene slik at du kan planlegge jordarbeidingen for å minimere avrenning.
+19. Hva er hensikten med markberedning før planting i skogen? 
+Markberedning blottlegger jorda og fjerner konkurrerende vegetasjon, noe som gir bedre spireplasser for frø og sikrer at småplanter etablerer seg raskere og overlever bedre.
+20. Kan jeg bruke trevirke fra egen skog til biobrensel på gården? 
+Ja, det er et overskudd av massevirke og skogsavfall i Norge som egner seg godt til flis, pellets eller ved, og det finnes støtteordninger via Innovasjon Norge for bønder som vil investere i varmeanlegg.
+21. Hva betyr det at jorda mi har et naturlig dreneringsbehov? 
+Dette betyr at jorda holder på for mye vann over tid, noe som kan hemme planteveksten; kart over dreneringsforhold kan vise hvilke arealer som trenger grøfting for å oppnå optimal produksjon.
+22. Hvorfor er det viktig å bevare genetisk variasjon hos skogtrærne mine? 
+Genetisk mangfold sikrer at skogen din kan tilpasse seg fremtidige klimaendringer, sykdommer og skadedyr, og det danner grunnlaget for foredling av mer robuste planter.
+23. Hvordan bør jeg stelle juletreet etter at det er hogd for å øke holdbarheten? 
+Du bør akklimatisere treet gradvis til innetemperatur, skjære et nytt snitt nederst på stammen og sørge for at det alltid har tilgang på friskt vann, da det bruker mye vann de første dagene.
+24. Hvilke hogstformer er best egnet i fjellskog? 
+I fjellskog anbefales ofte lukkede hogstformer som fjellskoghogst eller småflatehogst for å bevare et gammelskogpreg og beskytte naturen, da foryngelse tar lang tid i disse høydene.
+25. Hva er "innmarksbeite" i kartleggingssammenheng? 
+Innmarksbeite er jordbruksareal som brukes til beite og som ikke kan pløyes, men der minst 50 % av arealet er dekket av kulturgras eller beitetålende urter.
+26. Hvordan kan jeg redusere skader fra gransnutebiller på nyplantet skog? 
+Du kan bruke ulike mottiltak, som for eksempel kjemisk behandling av plantene eller mekanisk beskyttelse, for å hindre at billene gnager av barken på de små plantene.
+27. Hva er fordelen med å bruke nitrogenkalkulatorer i vekstsesongen? 
+Kalkulatorene henter inn lokale værdata og hjelper deg å justere gjødslingen basert på faktisk vekst og risiko for utvasking utover i sesongen.
+28. Hva må jeg vurdere før jeg flytter jordmasser i forbindelse med nydyrking? 
+Du må undersøke om jorda egner seg for flytting, om det finnes et egnet mottaksareal, og sikre at du ikke sprer fremmede arter eller skadegjørere under prosessen.
+29. Hvorfor bør jeg spare forhåndsgjenvekst ved hogst i fjellskogen? 
+Siden det kan gå 10–30 år mellom gode frøår i fjellet, er det viktig å ta vare på småtrærne som allerede finnes (forhåndsgjenvekst) for å sikre at ny skog etablerer seg raskere.
+30. Hvordan bidrar skogen min til det nasjonale klimaregnskapet? 
+Skogen tar opp CO2 gjennom fotosyntesen, og i Norge tilsvarer dette nettoopptaket omtrent halvparten av de menneskeskapte klimagassutslippene; ved å produsere tømmer til langvarige produkter forlenges denne karbonlagringen
+
+
+Mat
+1. Hvordan påvirker stressfaktorer smaken og kvaliteten på gulrøttene mine etter høsting?
+Gulrøtter er spesielt følsomme for stress etter høsting, der mekanisk stress, etyleneksponering og ugunstig emballering er de mest kritiske faktorene som kan ødelegge den gode smaken. Samtidig kan man bevisst utsette råstoffet for stimuli som UV-lys eller ultralyd for å øke innholdet av helsebringende stoffer og styrke motstandskraften mot sykdommer under lagring.
+2. Kan jeg bruke belgvekster som en alternativ nitrogenkilde i grønnsaksproduksjonen min? 
+Ja, belgvekster som kløver, erter og bønner er nitrogenfikserende, noe som betyr at de kan ta opp nitrogen fra lufta via bakterier på røttene. Disse kan inkluderes i vekstskiftet som grønngjødsling, hvor plantene moldes ned for å gi næring til etterfølgende kulturer.
+3. Hva må jeg passe på hvis jeg bruker organisk avfall som gjødsel? 
+Avfallet må være hygienisert i henhold til forskriftene for å sikre at man ikke sprer plantesykdommer til jordet. Noen typer avfall frigjør næring sent, mens andre er raskt tilgjengelige, og næringskrevende kulturer som kål kan trenge flere ulike gjødselkilder for å få dekket behovet.
+4. Hvordan kan jeg utnytte restfraksjoner av grønnsaker som ikke holder førsteklasses kvalitet?
+Grønnsaker med sprekker eller misformet vekst kan brukes som råstoff til nye matprodukter eller høyverdiprodukter med bioaktive plantestoffer. Dette er mer bærekraftig enn den tradisjonelle bruken til dyrefôr eller biogass.
+5. Hvilke krav stilles til settepoteter for å sikre en god avling? 
+For å lykkes må man bruke friske og vitale settepoteter, og ulike bruksområder krever ulike egenskaper for tørrstoffinnhold, sukkerinnhold og utseende. Kontinuerlig sortsprøving er nødvendig for å finne de beste sortene tilpasset lokale forhold.
+6. Hvordan planter og steller jeg jordskokk på best mulig måte? 
+Jordskokk settes på driller med 35–40 cm avstand og 10–12 cm dybde, gjerne i lett, sandholdig jord. Den krever ekstra overgjødsling i juli–august siden knollene dannes sent i sesongen, og vanning er avgjørende i tørre perioder under knolldanningen.
+7. Hvorfor er det ulovlig å bruke jordskokk fra dagligvarebutikken som setteknoller? 
+Dette er forbudt fordi importerte knoller kan bringe med seg nye skadegjørere som vi ikke har i landet, og disse sortene er ofte ikke tilpasset vårt klima.
+8. Hvordan forebygger jeg sykdom i jordskokken uten bruk av plantevernmidler? 
+Siden det ikke finnes godkjente plantevernmidler, er et romslig vekstskifte på 5–6 år med gras eller korn det beste tiltaket mot storknollet råtesopp. Mekanisk ugrasbekjempelse med hypping i starten er også nødvendig før plantene dekker arealet.
+9. Hva er fordelen med å ha et variert vekstskifte i kornproduksjonen? 
+Vekstskifte påvirker både avlingsmengde og kornkvalitet gjennom forgrødeeffekten, som er den positive virkningen en vekst har på den neste. Det er også et viktig verktøy for å bekjempe ugras og plantesykdommer.
+10. Hvilke utfordringer møter jeg ved dyrking av oljevekster i Norge? 
+Oljevekster krever lang veksttid og modnes sent, noe som gjør dem mer krevende å dyrke enn korn under norske forhold.
+11. Hvordan kan teknologien i "Grovfôrmodellen" hjelpe meg med innhøstingen? 
+Modellen gir støtte til å velge optimalt høstetidspunkt slik at graset har akkurat den kvaliteten som er ønsket for fôret.
+12. Er insektlarver en realistisk fremtidig inntektskilde på gården? 
+Insektproduksjon kan være aktuelt fordi arter som mjølbille og svart soldatflue effektivt kan omdanne organisk avfall til proteinrikt fôr eller mat. Lønnsomhet krever imidlertid tilgang på store volum avfall, riktig logistikk og et marked som etterspør produktet.
+13. Hvordan kan sensorer og droner forbedre driften min? 
+Sensorer kan monteres på traktorer eller droner for å kartlegge variasjon i jord og plantevekst, slik at man kan utføre presisjonsjordbruk og gi behandling etter behov. Termiske kameraer kan for eksempel oppdage stress hos plantene tidlig.
+14. Hvilke spesielle fordeler har grønnsaker dyrket i Nord-Norge? 
+Det arktiske klimaet med midnattssol og lave temperaturer gir rotgrønnsaker og kålvekster en spesielt gunstig smak med mindre bitterstoffer. I tillegg er det mindre behov for sprøytemidler på grunn av det kalde klimaet.
+15. Hva må jeg tenke på ved potetdyrking nord for polarsirkelen? 
+Den korte vekstsesongen begrenser tiden til modning og utvikling av skallfasthet, så tiltak som lysgroing av settepoteter og bruk av fiberduk er ofte nødvendig for å forlenge sesongen.
+16. Hvorfor får jordbær i nord en mer intens farge og høyere sukkerinnhold? 
+Dette skyldes samspillet mellom lavere temperaturer og lange dager under bærdannelsen og modningsfasen i nordlige strøk.
+17. Hvordan kan jeg redusere tap av beitedyr til rovvilt i utmarka? 
+De mest effektive tiltakene er de som skiller rovvilt og beitedyr i tid eller rom, slik som forebyggende flytting av dyr eller bruk av rovviltsikre gjerder.
+18. Hva er de viktigste prinsippene i økologisk landbruk? 
+Driften bygger på de fire prinsippene om helse, økologi, rettferdighet og varsomhet, med fokus på vekstskifte, naturlig gjødsling og god dyrevelferd. Man unngår kunstgjødsel og syntetiske plantevernmidler for å fremme jordfruktbarhet og biologisk mangfold.
+19. Hvordan sikrer jeg god dyrevelferd for økologiske husdyr? 
+Dyrene skal ha mulighet til å utøve naturlig atferd, som inkluderer fri bevegelse, sosial kontakt og tilgang til utearealer hele året. Det er også strengere arealkrav inne og krav om tett liggeunderlag for sau.
+20. Hvilke utfordringer finnes ved økologisk korndyrking? 
+Nitrogen er ofte den mest begrensende faktoren, og man må bruke nitrogenfikserende underkultur eller grønngjødsel for å sikre næringstilførselen. Man er også avhengig av mekanisk ugrasharving siden kjemiske midler ikke er tillatt.
+21. Hvorfor er tørråte en spesielt stor utfordring i økologisk potetdyrking? 
+Siden man ikke kan bruke syntetiske sprøytemidler, må man satse på resistente sorter eller bruke tidligpoteter som kan høstes før soppen ødelegger riset.
+22. Hvilke fordeler gir tunneldyrking av frukt og bær? 
+Plasttunneler beskytter plantene mot direkte nedbør, noe som reduserer problemer med soppsykdommer som gråskimmel og sikrer mer stabile leveranser av høy kvalitet.
+23. Er det økonomisk lønnsomt å legge om til økologisk drift? 
+Lønnsomheten varierer; for melk, sau og korn er den ofte på nivå med konvensjonell drift på grunn av merpris og tilskudd, mens den kan være svakere for storfekjøtt og løk.
+24. Hva innebærer konseptet "Én-helse" for min gårdsproduksjon? 
+Det handler om å forstå sammenhengen mellom plantenes, dyrenes, menneskenes og økosystemets helse, for eksempel hvordan bruk av plantevernmidler kan påvirke resistensutvikling.
+25. Hva er en "mandatsort" i genressurssammenheng? 
+En mandatsort er en plante som er vurdert som viktig å bevare for Norge, enten fordi den er foredlet her eller har hatt stor kulturhistorisk betydning.
+26. Hvorfor forsvant de gamle landsortene av korn? 
+De forsvant da bøndene begynte å kjøpe mer høytytende, moderne sorter fra profesjonell planteforedling for å effektivisere produksjonen.
+27. Hvordan kan jeg selv bidra til å bevare gamle sorter? 
+Du kan drive med poding av gamle frukttrær eller lære deg å høste og ta vare på frø fra egne grønnsaker, som for eksempel tomater.
+28. Hvilke regler gjelder for flytting av bevaringsverdige husdyrraser? 
+Det er generelt forbudt å flytte hunndyr av sau og geit mellom regioner for å hindre smitte, men man kan søke om unntak dersom det er ledd i en godkjent avlsplan for å bevare en truet rase.
+29. Hvordan fungerer nedarving av horn hos storfe? 
+Genet for horn er recessivt, mens kollethet (uten horn) er dominant. Det betyr at et dyr kan bære genet for horn uten å ha horn selv, og hvis to slike bærere parer seg, er det 25 % sjanse for at kalven får horn.
+30. Hva er formålet med Kuregisteret? 
+Registeret er en slektskapsdatabase som brukes for å unngå innavl i små populasjoner av nasjonale storferaser og fungerer som dokumentasjon for produksjonstilskudd
+
+
+Plantehelse og Landskap
+1. Hvordan kan jeg redusere risikoen for Fusarium og muggift (mykotoksiner) i kornåkeren min? 
+Dyp jordbearbeiding og et godt vekstskifte er avgjørende tiltak for å bekjempe Fusarium. Det er også viktig å velge sorter med høyest mulig grad av resistens for å redusere risikoen for mykotoksiner som DON.
+2. Hva gjør jeg hvis jeg mistenker at ugraset i åkeren min har blitt resistent mot sprøytemidler? 
+Først må du sjekke om sprøytingen ble utført riktig med tanke på dose, tidspunkt og værforhold. Hvis alt ble gjort riktig og ugraset likevel overlever, bør du stoppe bruken av midler med samme biokjemiske virkemåte og søke råd om videre bekjempelse.
+3. Hva er fordelen med å bruke optisk sensorteknologi i plantevernet? 
+Sensorteknologi gjør det mulig å utføre presisjonstiltak, slik at du bare behandler de delene av åkeren hvor det faktisk er behov for det. Dette reduserer den totale mengden plantevernmidler som brukes sammenlignet med tradisjonell breisprøyting.
+4. Hvordan kan jeg bruke insektenes luktesans til å beskytte avlingene mine? 
+Insekter bruker luktesansen for å finne mat og maker, og dette kan utnyttes ved å bruke duftfeller eller forvirringsmetoder for å lure skadedyrene bort fra plantene.
+5. Hvor ofte kan jeg bruke ALS-hemmere (lavdosemidler) mot ugras før jeg må bytte middel? 
+For å unngå resistens anbefales det å bruke ALS-hemmere i maksimalt to av tre år. Det tredje året bør du skifte til et preparat med en annen virkningsmekanisme.
+6. Hva innebærer prinsippene for integrert plantevern (IPV) for meg som yrkesdyrker? 
+Du er pålagt å sette deg inn i og anvende åtte prinsipper som handler om å bruke alle tilgjengelige teknikker for å holde skadegjørere under et økonomisk skadenivå. Dette inkluderer forebygging, overvåking og bruk av ikke-kjemiske metoder så langt det er mulig.
+7. Kan jeg bruke insekter til noe annet enn pollinering på gården? 
+Ja, insekter kan også fungere som nyttedyr ved at de dreper skadedyr, og de kan i tillegg brukes som en kilde til protein og fett i fôr til husdyr.
+8. Hvordan påvirker været utviklingen av soppsykdommer i kornet? 
+Nedbør og temperatur i den kritiske perioden rundt blomstring har stor innvirkning på utviklingen av aksfusariose og mykotoksiner.
+9. Hva er forskjellen på kryss-resistens og multiresistens hos skadegjørere? 
+Kryss-resistens betyr at resistens mot ett middel automatisk gir resistens mot andre midler med samme virkemåte, mens multiresistens betyr at skadegjøreren har utviklet flere ulike mekanismer for å tåle midler med forskjellige virkemåter.
+10. Finnes det en tjeneste som kan hjelpe meg å identifisere ukjente skadegjørere? 
+Ja, en planteklinikk fungerer som et diagnoselaboratorium som kan identifisere organismer som er skadelige for planter, noe som er grunnlaget for å velge riktige tiltak.
+Gjødsel og jordkvalitet
+11. Kan organisk gjødsel skade grønnsaksproduksjonen min? 
+Ja, visse typer flytende organisk plantenæring, pelletert husdyrgjødsel og kompost kan være forurenset med klopyralid, som er en hormonhermer som kan ødelegge avlinger av sensitive vekster.
+12. Hvilke planter er mest følsomme for klopyralid-forurensning i jorda? 
+Særskilt sensitive vekster inkluderer bønner, kløver, linser, salat, erter og tomat, som tåler svært lave konsentrasjoner før de tar skade.
+13. Hvor stammer klopyralid-restene i gjødselvarer fra? 
+Det kan stamme fra sprøytet strøhalm eller fôr, da stoffet går rett gjennom dyret og ut i urin og møkk, eller fra vinasse (et biprodukt fra sukkerbeteproduksjon) som brukes i plantenæring.
+Utmark og beitebruk
+14. Hvor mye er fôret som høstes i utmarka faktisk verdt for norsk landbruk? 
+Hvert år høster beitedyr i Norge fôr i utmarka til en verdi av om lag 1 milliard kroner.
+15. Hvordan kan jeg vurdere kvaliteten på beitet i mitt utmarksområde? 
+Du kan bruke vegetasjonskart som deler naturen inn i ulike vegetasjonstyper med ulik beiteverdi for henholdsvis sau og storfe.
+16. Hvilke konsekvenser har gjengroing for beiteressursene mine? 
+Gjengroing fører til at landskapet endres til skog, noe som reduserer beitekvaliteten, det biologiske mangfoldet og gjør landskapet mindre tilgjengelig.
+17. Hvorfor er det viktig med organisert beitebruk og beitelag? 
+Beitelag samarbeider om tiltak som tilsyn og sanking, og de gir tilgang til statistikk over dyr sluppet og tapt i utmarka via karttjenester.
+18. Kan jeg øke antall dyr på beite i områder som Slettefjellet eller Valdres? 
+Kartlegging viser at det mange steder er betydelige ledige beiteressurser, spesielt i produktive bjørkelier, og at ressursgrunnlaget i noen områder kan tåle en betydelig økning i antall dyr.
+19. Hva slags skader kan sau og storfe påføre ungskog? 
+Den mest utbredte skaden er tråkk- og liggeskader på hogstflater. Storfe kan også dra med seg små foryngelsesplanter når de beiter gress, selv om de sjelden spiser selve bartrærne.
+20. Hvordan beskytter jeg furuplantefeltet mitt mot elgbeiting? 
+Det beste tiltaket er å sikre høy tetthet av furu ved planting, slik at nok stammer overlever selv om elgen beiter på noen av dem. Tekniske tiltak som lyd og lukt er ofte dyrere enn de er effektive.
+21. Hva er de mest effektive tiltakene mot rovviltskader på sau? 
+De tiltakene som fungerer best er de som skiller sau og rovvilt i tid og rom, ofte gjennom en differensiert forvaltning der landet er delt inn i egne soner for henholdsvis rovvilt og beitedyr.
+22. Hvilke utfordringer skaper økende gåsebestander for landbruket? 
+Gjess påfører dyrket mark skader ved å spise såkorn og gress, tråkke ned spirer og forurense fôret med ekskrementer.
+23. Hva gjør hjorten av skade på skogen min? 
+Hjort kan forårsake barkgnaging på eldre granbestand, særlig om vinteren, og beite på skudd av skogplanter, noe som er i ferd med å bli et økende problem.
+24. Hvordan kan jeg bidra til overvåking av brunbjørn i mitt område? 
+Bønder og turgåere kan bidra ved å samle inn ekskrementer og hår for DNA-analyse, som brukes til å beregne antall individer og ynglinger i bestanden.
+25. Hvordan etablerer jeg en blomstereng på gården min på best mulig måte? 
+Det er lettest å etablere blomstereng på åpen jord som er mager og sandholdig. Du bør bruke regionale frøblandinger for å bevare den lokale genetiske tilpasningen.
+26. Hva er «høymetoden» for etablering av blomstereng? 
+Metoden går ut på å spre nyslått, frømodent høy fra en artsrik eng over arealet der du ønsker blomstereng, slik at frøene drysser av naturlig mens høyet beskytter mot uttørking.
+27. Hvorfor bør jeg unngå importerte frøblandinger til pollinatorstriper? 
+Importerte frø inneholder ofte arter som ikke vokser naturlig i Norge og kan medføre risiko for spredning av fremmede ugrasarter som hønsehirse. De ivaretar heller ikke det naturlige mangfoldet av stedegne insekter like godt som norske floraarter.
+28. Hva slags vedlikehold krever en blomstereng? 
+Den krever en «gammeldags» høyslått uten bruk av kunstgjødsel eller plantevernmidler, ofte i kombinasjon med beiting vår eller høst. På næringsrik jord kan det være nødvendig med to slåtter i året de første sesongene for å utmagre jorda.
+29. Kan jeg tjene penger på å dyrke frø av markblomster? 
+Ja, det er muligheter for kontraktfrøavl av regionale blomsterengfrø, spesielt for andre regioner enn Sørøstlandet.
+30. Hva er fordelen med å henge opp humle- eller flaggermuskasser? 
+Dette bidrar til å skaffe leveområder for arter som møter utfordringer i dagens landskap, og du kan bidra til folkeforskning ved å rapportere om boplassene tas i bruk
+
+
+Miljø og Landbruks-økonomi
+1. Hvordan kan jeg bruke Integrert Plantevern (IPV) for å redusere miljøbelastningen på gården min?
+Du kan bruke webbasert rådgivning for å velge strategier med minst mulig miljøbelastning, samt benytte varslingstjenesten VIPS for å få informasjon om skadedyr, soppsykdommer og ugras. Dette innebærer en kombinasjon av forebyggende, mekaniske og kjemiske tiltak.
+2. Hvilke tiltak kan jeg iverksette for å hindre at plantevernmidler forurenser nærliggende bekker?
+Etablering av biobed eller biofiltre er effektive løsninger for å redusere forurensning fra punktkilder som påfyllings- og vaskeplasser for sprøyteutstyr. I tillegg kan vegetasjonssoner og grasdekte vannveier bidra til å redusere tap av partikler og næringsstoffer til vann.
+3. Hva er fordelen med å ha et mangfoldig jordliv i åkeren min?
+Et rikt jordliv bidrar til jordkvalitet ved å tilføre plantenæringsstoffer gjennom nedbrytning og ved å binde jorda sammen i porøse klumper som motstår erosjon og holder på vann. De fleste organismer i jorda driver med nedbrytning, mens en liten andel har nøkkelroller som nitrogenfiksering og næringstransport.
+4. Hvordan påvirker moderne dyrkingsmetoder moldinnholdet i jorda mi?
+Dagens dyrkingsmetoder for åkervekster fører ofte til mindre organisk materiale og lavere moldinnhold, da molden destabiliseres og karbonet ender opp i atmosfæren som CO2. Dette påvirker jordkvaliteten negativt og reduserer jordas evne til å levere økosystemtjenester.
+5. Hva er karbonlandbruk, og hvordan kan det hjelpe driften min?
+Karbonlandbruk er dyrkingsmetoder som øker lagringen av karbon i jorda, noe som fører til bedre jordhelse og potensielt større avlinger. Samtidig fungerer det som et klimatiltak ved at karbonet bindes i jorda i stedet for å tapes til atmosfæren.
+6. Hva bør jeg vurdere for å ivareta pollinatorer på eiendommen?
+Pollinatorer er avgjørende for matproduksjon, men trues av endringer i arealbruk, plantevernmidler og invaderende arter. Det er viktig å bevare deres leveområder for å sikre de økosystemtjenestene de leverer til landbruket.
+7. Hvordan kan jeg tilpasse plantedyrkingen min til et endret klima med mer nedbør?
+Relevante tiltak inkluderer forbedret drenering, bruk av vekstskifte, tiltak mot jordpakking, samt bevisst valg av sorter og arter som er tilpasset de nye forholdene.
+8. Hva er hensikten med en fangdam, og hvordan fungerer den?
+En fangdam brukes for å fange opp partikulær forurensning og næringsstoffer som fosfor, som ofte er bundet til partikler. Ved å gi vannet tilstrekkelig oppholdstid, sedimenterer partiklene ved hjelp av tyngdekraften, og den næringsrike jorda kan senere føres tilbake til produksjonsarealene.
+9. Hvorfor er det viktig å bevare kantsoner langs vassdrag på gården?
+Kantsoner med gress, urter og trær filtrerer forurenset overvann, hindrer erosjon med sine rotsystemer, og gir skygge for vannlevende organismer. De fungerer også som viltkorridorer og bidrar til pollinering.
+10. Hvilke krav gjelder for kantsoner dersom jeg også driver med skogbruk?
+Det skal bevares eller utvikles en flersjiktet kantsone langs vann og bekker med årssikker vannføring, normalt med en bredde på 10-15 meter. Det er også et generelt pålegg om å bevare en kantsone på minst 5 meter langs vassdrag.
+11. Hvordan kan jeg overvåke vannkvaliteten i bekkene som renner gjennom min mark?
+Du kan benytte sensorteknologi som gir sanntidsdata om vannkvalitet hyppig og til en relativt lav pris, som et alternativ til sjeldnere manuelle vannprøver. Overvåking hjelper deg å se om iverksatte miljøtiltak faktisk har effekt.
+12. Hva lærer JOVA-programmet oss om sammenhengen mellom landbruk og vannkvalitet?
+Programmet dokumenterer at driften på jordbruksarealene henger direkte sammen med vannkvaliteten i bekkene. Bønder registrerer all aktivitet i nedbørfeltene, noe som gir grunnlag for å vurdere tap av næringsstoffer og plantevernmidler opp mot endringer i praksis over tid.
+13. Hva bør jeg gjøre hvis en bekk på min eiendom er lagt i rør og jeg ønsker å gjenåpne den?
+Gjenåpning av bekker (remeandrering) kan fremme naturlig selvrensing, øke biomangfoldet og gi bedre flomvern ved ekstremnedbør. Dette er en langsiktig strategi som også kan gi mulighet for fiskevandring og bedre landskapsestetikk.
+14. Hvordan kan jeg redusere utslipp av metangass fra beitedyra mine?
+Metangass fra beitedyr skyldes hovedsakelig fermentering av mat i vomma. Det forskes på bruk av spesifikt fôr som kan bidra til å redusere disse utslippene.
+15. Hva kan jeg gjøre for å minske direkte lystgassutslipp fra jorda?
+Effektive tiltak inkluderer tilpasset nitrogengjødsling, kalking, god drenering og reduksjon av jordpakking. Nitrogen fra belgvekster omdannes i mindre grad til lystgass gjennom vekstsesongen enn handelsgjødsel, men har høyere risiko for tap om vinteren.
+16. Hvorfor er det viktig å unngå jordarbeiding og spredning av husdyrgjødsel om høsten?
+Dette gjøres for å redusere faren for avrenning av nitrogen, som senere kan føre til indirekte lystgassutslipp. Ved å utnytte nitrogenet bedre reduseres behovet for total nitrogenbruk på gården.
+17. Hvorfor er restaurering av myr viktig i et klimaperspektiv?
+Myr inneholder enorme mengder organisk karbon, og i Norge er det estimert ca. en milliard tonn karbon i all myr. Ved å restaurere myr i stedet for å dyrke den opp, hindrer man at dette karbonet tapes som klimagasser til atmosfæren.
+18. Hvilke regler gjelder hvis jeg skal installere et nytt mindre avløpsanlegg på gården?
+For utslipp under 50 personekvivalenter (pe) gjelder forurensningsforskriftens kapittel 12. Du må søke kommunen om utslippstillatelse og sørge for at anlegget er prosjektert av en nøytral fagkyndig.
+19. Hvordan beregner jeg størrelsen på et avløpsanlegg for en bolig eller hytte?
+Man tar utgangspunkt i "personekvivalenter" (pe), der én person tilsvarer 1 pe. For en helårsbolig beregnes normalt minimum 5 pe.
+20. Hvilken type avløpsløsning bør jeg velge hvis jeg har gode grunnforhold for infiltrasjon?
+Infiltrasjonsanlegg anbefales ofte fordi det er en driftssikker løsning som renser svært godt, spesielt med tanke på bakterier og fosfor. Det krever imidlertid selvdrenerende jordmasser med tilstrekkelig dybde.
+21. Hva er fordelen med kildeseparering av avløpsvann?
+Ved å skille svartvann (fra toalett) og gråvann (fra vask og dusj) fjerner man mesteparten av nitrogenet, fosforet og smittestoffene fra hovedutslippet. Dette er spesielt gunstig i sårbare områder eller der det er vanskelig med infiltrasjon.
+22. Hvor ofte må slamavskilleren på gården tømmes?
+Slamavskillere for helårsboliger skal som hovedregel tømmes minst annethvert år, mens det for fritidsboliger kreves tømming hvert fjerde år.
+23. Kan jeg bruke brukt filtermateriale fra avløpsanlegget som gjødsel?
+Ja, brukt filtermateriale (som sand eller lettklinker) er ofte anriket med fosfor og har vist positiv gjødslings- og kalkingseffekt. Det bør imidlertid mellomlagres utendørs i 1,5 til 2 år for hygienisering før det spres på åkeren.
+24. Hvem har ansvaret for at avløpsanlegget ikke lukter sjenerende for naboene?
+Det er anleggseierens ansvar å sørge for at anlegget bygges og driftes slik at det ikke oppstår luktproblemer. Lufting bør føres over tak, og kumlokk kan tettes med pakninger eller dekkes med bark.
+25. Hva er "Totalkalkylen", og hvilken betydning har den for meg som bonde?
+Totalkalkylen viser de totale inntektene, kostnadene og arbeidsforbruket i jordbruket for hele landet. Den brukes som et felles utgangspunkt i jordbruksforhandlingene for å sammenligne bønders inntektsutvikling med andre grupper.
+26. Hvordan foregår de årlige jordbruksforhandlingene?
+Oppgjøret starter med grunnlagsmateriale fra Budsjettnemnda i april, etterfulgt av næringens krav, statens tilbud, og forhandlinger i mai. Resultatet vedtas til slutt av Stortinget i juni.
+27. Hva er "Driftsgranskingar", og hvordan kan de hjelpe meg å styre gården bedre?
+Dette er statistikk basert på faktiske regnskaper fra gårdsbruk, som viser økonomiske resultater for ulike driftsformer og landsdeler. Du kan bruke disse for å sammenligne din egen lønnsomhet, soliditet og likviditet med lignende bruk.
+28. Hvor kan jeg finne informasjon om prisutviklingen på matvarer jeg produserer?
+Det produseres månedlige oversikter over prisutvikling på produsent-, engros- og forbrukernivå for ulike varegrupper som kjøtt, meieri og grønt.
+29. Hva er det nasjonale målet for selvforsyningsgrad i Norge?
+Regjeringen har som mål at selvforsyningsgraden for norske jordbruksmatvarer, korrigert for import av fôrråvarer, skal være på 50 prosent.
+30. Finnes det økonomiske tilskudd for å gjennomføre miljøtiltak i skogen min?
+Ja, det kan gis tilskudd til å ivareta miljøverdier knyttet til biologisk mangfold og landskap gjennom NMSK-forskriften. Dette kan dekke merkostnader eller tap ved å avstå fra hogst eller legge om driften for å bevare spesielle naturtyper
