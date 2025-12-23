@@ -1,0 +1,180 @@
+﻿1. Hvilken av disse storferasene er oppført som en nasjonal og truet rase i Norge? 
+A. Norsk Rødt Fe (NRF) 
+B. Jersey 
+C. Holstein 
+D. Vestlandsk storfe 
+Korrekt svar: D
+2. Hvor mange saueraser i Norge er regnet som nasjonale og truede? 
+A. Fire 
+B. Fem 
+C. Seks 
+D. Åtte 
+Korrekt svar: C
+3. Hvilken nasjonal rase er den eneste som er definert som bevaringsverdig blant kaniner i Norge? 
+A. Trønderkanin
+B. Belgisk kjempe 
+C. Alaska 
+D. Angora 
+Korrekt svar: A
+4. Hvilken database fungerer som en slektskapsdatabase for de bevaringsverdige norske storferasene (som dølafe, telemarksfe og østlandsk rødkolle)? 
+A. Husdyrregisteret 
+B. Kukontrollen 
+C. Kuregisteret 
+D. Stambokregisteret 
+Korrekt svar: C
+5. Hva er det grunnleggende premisset som har gjort det mulig å utvikle dagens nytteplanter og kulturvekster, og som er beskrevet som selve grunnlaget for utviklingen av vår sivilisasjon? 
+A. Utvikling av moderne planteforedlingsteknikker. 
+B. Den genetiske variasjonen innen naturens plantearter. 
+C. Etablering av internasjonale avtaler om matproduksjon. 
+D. Fremveksten av økologisk landbruk. 
+Korrekt svar: B
+6. Hvilken bevaringsmetode er ansett som den enkleste og mest brukte for mange nytteplanter, og innebærer at materialet tørkes og fryses ned til –18°C i en genbank? 
+A. Bevaring in situ av kulturplantenes ville slektninger. 
+B. Bevaring av klonformerte sorter i feltgenbank. 
+C. Bevaring av genressurser som frø. 
+D. Bevaring in vitro og kryo. 
+Korrekt svar: C
+7. ​​Hva er formålet med Svalbard globale frøhvelv, verdens største sikkerhetslager for frø? 
+A. Å lagre sikkerhetskopier av frøprøver av planter som brukes til matproduksjon og landbruk.
+B. Å tjene som en turistattraksjon for Longyearbyen. 
+C. Å forske på arktisk jordbruk og klimatilpasning av planter. 
+D. Å bevare dyrkningssystemer og kulturlandskap. 
+Korrekt svar: A
+8. Hvilket plantemateriale må bevares som levende planter i et klonarkiv eller feltgenbank, i motsetning til som frø, fordi den genetiske kombinasjonen i sorten ikke bevares gjennom frø?
+A. Kornsorter. 
+B. Ertesorter. 
+C. Oljevekster. 
+D. Potetsorter
+Korrekt svar: D
+9. Hvor stor andel av melkegeitene i Norge befant seg i fjellkommunene i Sør- og Midt-Norge i 2020? 
+A. Omtrent 22 % av landets geiter 
+B. Omtrent 15 % av landets geiter 
+C. Omtrent 46 % av landets geiter 
+D. Omtrent 30 % av landets geiter 
+Korrekt svar: C
+10. Hva er det grunnleggende elementet i fjellandbruket, som utgjør over 90 prosent av jordbruksarealet? 
+A. Dyrking av poteter, som tåler nattefrost 
+B. Grovfôrbasert husdyrproduksjon 
+C. Arealer brukt til dyrking av korn og frøvekster 
+D. Produksjon av frukt og bær 
+Korrekt svar: B
+11. Hvilken påvirkning fra klimaendringer kan forsterke gjengroingen som foregår i mange fjellbygder? 
+A. Høyere temperaturer, lengre vekstsesong og mer regn, som gir bedre tilvekst 
+B. Lavere temperaturer kombinert med kortere vekstsesong 
+C. Økt frekvens av flom og tørke  
+D. Redusert albedo (overflaterefleksjon) 
+Korrekt svar: A
+12. Ifølge tradisjonell kunnskap i fjellbygdene, når på året har melk og kjøtt produsert på fjellbeiter de beste egenskapene og kvalitetene? 
+A. Våren 
+B. Høsten 
+C. Vinteren 
+D. Sommeren 
+Korrekt svar: D
+13. Hva er hovedårsaken til at jordbruksproduksjon er mulig på breddegrader i Nord-Norge som ifølge senter for arktisk landbruk er den nordligste landbruksregionen i verden? 
+A. Den rike tilgangen på ferskvann fra smeltende isbreer. 
+B. Varmen som kommer med Golfstrømmen. 
+C. Den svært lange mørketiden som fremmer vekst. 
+D. Spesialiserte, stedegne plantearter som tåler permafrost. 
+Korrekt svar: B
+14. Hvilken kvalitetsfordel kan man oppnå ved dyrking av rotgrønnsaker og kålvekster i Nord-Norge, der vekstforholdene inkluderer midnattssol og relativt lave temperaturer? 
+A. Høyere proteininnhold. 
+B. Mindre innhold av bitterstoffer. 
+C. Raskere skallfasthet. 
+D. Lengre vekstsesong for full modning. 
+Korrekt svar: B
+15. Hvilket teknologisk konsept i landbruket beskrives som det å bruke ny teknologi for å tilpasse behandlingen av jord og vekst etter behov? 
+A. Akvaponi 
+B. Presisjonsjordbruk 
+C. Grønn bioraffinering 
+D. Utvikling av nye plantesorter 
+Korrekt svar: B
+16. Hva er hovedformålet med bruk av ulike sensorer i jordbruket, slik som spektrometre, hyperspektrale kamera og termiske kamera? 
+A. Å observere og kartlegge variasjon i jord og vekst innenfor hvert jordstykke, inkludert målinger av lysrefleksjon, fluorescens og oppdagelse av stress hos kulturplantene. 
+B. Å måle og dokumentere den genetiske variasjonen i plantegenetiske ressurser.
+C. Å identifisere og overvåke bevaringsverdige husdyrraser som er truet eller kritisk truet. 
+D. Å bestemme optimal haustedato for grovfôr ved hjelp av en spesifikk grovfôrmodell.
+Korrekt svar: A
+17. Hvilke fire kornslag er de viktigste som dyrkes i Norge? 
+A. Mais, ris, hvete og rug 
+B. Havre, ris, mais og spelt 
+C. Hirse, spelt, bygg og havre 
+D. Hvete, bygg, havre og rug
+Korrekt svar: D
+18. Hva er en samlebetegnelse for planter som tilhører flere slekter innen erteblomstfamilien? 
+A. Oljevekster 
+B. Grovfôr 
+C. Makroalger 
+D. Belgvekster 
+Korrekt svar: D
+19. Kornproduksjonen i Norge foregår under marginale forhold. Hvilken faktor er avgjørende for å lykkes med produksjonen? 
+A. Tilpassing av sortsmateriale og dyrkingsteknikk
+B. Bruk av moderne droner 
+C. Dyrking utelukkende i lavlandet 
+D. Tidlig høsting før modning 
+Korrekt svar: A
+20. Hva brukes mesteparten av det økologiske kornet som dyrkes i Norge til? 
+A. Matkvalitetshvete 
+B. Økologisk kraftfôr 
+C. Eksport 
+D. Produksjon av økologisk øl 
+Korrekt svar: B
+21. Hvilke faktorer under lagring og omsetning ser ut til å være de mest skadelige for den gode smaken i gulrot etter høsting? 
+A. Lav temperatur og høy fuktighet 
+B. Høy temperatur og insekter 
+C. Mekanisk stress, etylen og ugunstig emballering.
+D. UV-lys og ultralyd
+Korrekt svar: C
+22. Hvilken gruppe vekster kan inkluderes i vekstskifter for å tilføre nitrogen til grønnsaksproduksjon ved hjelp av nitrogenfiksering fra luften? 
+A. Kornvekster 
+B. Oljevekster 
+C. Rotvekster som gulrot
+D. Belgvekster (som for eksempel kløver, erter og bønner)
+Korrekt svar: D
+23. Jordskokk (Helianthus tuberosus) er en flerårig grønnsak. Hva betyr ordet tuberosus i det latinske navnet? 
+A. Sol. 
+B. Blomster. 
+C. Som har knoller. 
+D. Som trives i kaldt klima. 
+Korrekt svar: C
+24. Hva er de fire grunnleggende prinsippene som definerer økologisk landbruk, fastsatt av International Federation of Organic Agriculture Movements (IFOAM)? 
+A. Helse, ressursutnyttelse, marked og teknologi. 
+B. Helse, økologi, rettferdighet og varsomhet. 
+C. Lavt karbonfotavtrykk, biologisk mangfold, dyrevelferd og selvforsyning. 
+D. Ingen bruk av kunstgjødsel, ingen bruk av pesticider, vekstskifte og kretsløp. 
+Korrekt svar: B
+25. Hvilken agronomisk teknikk er et av de mest grunnleggende virkemidlene i økologisk landbruk for å opprettholde jordas fruktbarhet? 
+A. Monokultur 
+B. Integrert plantevern 
+C. Vekstskifte 
+D. Bioraffinering 
+Korrekt svar: C
+26. Hvilke botaniske deler av en plante kan grønnsaker være?
+A. Røtter, stengelknoller, stengler, blad, blomst, frukt eller frø
+B. Bare frukt og frø
+C. Kun blader og stengler 
+D. Kun rotvekster
+Korrekt svar: B
+27. Hvilken rotvekst var den viktigste i hele Skandinavia fra før vikingetiden og gjennom hele middelalderen, helt til poteten kom? 
+A. Kålrot 
+B. Gulrot 
+C. Pepperrot
+D. Nepe
+Korrekt svar: D
+28. Hvilken type husdyrproduksjon er mindre egnet i økologiske driftssystemer fordi veldig rask vekst kan føre til helseproblemer, og det er vanskelig å finne passende fôr? 
+A. Verpehøner 
+B. Ammekyr 
+C. Slaktekyllinger
+D. Melkekyr
+Korrekt svar: C
+29. Hva er et sentralt krav til fôret i økologisk husdyrhold, spesielt med hensyn til produksjonsmetoden?
+A. Fôret må være produsert uten bruk av syntetiske sprøytemidler og lettløselig mineralgjødsel 
+B. Dyrene skal kun fores med råvarer som ikke egner seg til menneskemat 
+C. Minst 75% av fôret må bestå av importert proteinråvare
+D. Fôret må utelukkende komme fra egen gård 
+Korrekt svar: A
+30. Hvordan sammenlignes lønnsomheten i økologisk produksjon av for eksempel melk, korn, gulrot og sauekjøtt med konvensjonell produksjon, ifølge forskning? 
+A. Lønnsomheten er i gjennomsnitt omtrent lik, ettersom lavere avlinger og produktivitet kompenseres av merpris og tilskudd
+B. Lønnsomheten er generelt mye høyere i økologisk produksjon, da forbrukere betaler en betydelig merpris
+C. Lønnsomheten er gjennomgående lavere i økologisk landbruk, særlig for korn og melk
+D. Lønnsomheten er kun konkurransedyktig i produksjon av frukt og bær, takket være tunneldyrking
+Korrekt svar: A
