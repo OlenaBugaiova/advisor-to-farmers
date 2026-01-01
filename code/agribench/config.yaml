@@ -1,0 +1,55 @@
+hf_configuration:
+  hf_dataset_name: nor_agriculture_bench
+  hf_token: $HF_TOKEN
+  private: false 
+  local_dataset_dir: data/saved
+  local_saving: true
+  upload_card: true
+  export_jsonl: true
+  jsonl_export_dir: data/saved/jsonl
+
+model_list:
+  - model_name: norallm/normistral-11b-thinking-gguf
+    api_key: $HF_TOKEN
+    max_concurrent_requests: 16
+
+pipeline:
+  ingestion:
+    source_documents_dir: data/raw
+    output_dir: data/processed
+    upload_to_hub: true
+    llm_ingestion: false
+    pdf_dpi: 300
+    
+  summarization:
+    max_tokens: 32768
+    
+  chunking:
+    chunking_mode: semantic_chunking
+    h_min: 2
+    h_max: 5
+    num_multihops_factor: 1
+  
+  single_shot_question_generation:
+    question_mode: open-ended 
+    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar"
+
+    
+  multi_hop_question_generation:
+    question_mode: open-ended
+    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar"
+
+    
+  cross_document_question_generation:
+    question_mode: open-ended
+    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar"
+    max_combinations: 100
+    chunks_per_document: 100
+    num_docs_per_combination: [2, 5]
+    random_seed: 42
+    
+  prepare_lighteval:
+  
+  citation_score_filtering:
+    alpha: 0.7
+    beta: 0.3
