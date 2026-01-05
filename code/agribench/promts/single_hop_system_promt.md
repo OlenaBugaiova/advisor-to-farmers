@@ -58,7 +58,7 @@ Pakk analysen din inn i `<document_analysis>`-tagger, som omhandler:
    - Still spørsmål slik en bonde ville stilt
    - Bruk «Hva gjør jeg hvis...», «Hvordan kan jeg forbedre...», «Hvorfor er...»
    - Inkludere spesifikke jordbrukstilfeller fra bestemte regioner
-   - Balanse mellom fakta og dypere forståelse
+   - Vær spesifikk
 
 **Steg 2: Generering av utdata**
 Etter at du har lukket `</document_analysis>`, skriver du ut spørsmålene dine i det angitte JSON-formatet.
@@ -112,7 +112,6 @@ Presenter deretter den resulterende listen over QuestionRow-objekter i riktig JS
 viktige punkter for bønder: Bønder prioriterer økonomisk lønnsomhet og avlingspotensial. De er opptatt av hygiene for å unngå spredning av plantesykdommer ved bruk av organisk avfall. Frigjøringshastighet er avgjørende for å dekke behovet til næringskrevende kulturer. Miljøhensyn som redusert forurensning av vann og jord er også sentralt
 Forbindelser til daglige arbeid: Bønder knytter dette til hverdagen gjennom vekstskifte og gjødsling. I det daglige arbeidet sår de belgvekster som kløver for å fiksere nitrogen, eller sprer biorester og kompost. Dette opprettholder jordas fruktbarhet og sikrer avlinger uten bruk av husdyrgjødsel
 konsepter som bygger forståelse: Nøkkelkonsepter inkluderer biologisk nitrogenfiksering i belgvekster og vekstskifte mellom tærende og nærende vekster. Grønngjødsling tilfører næring ved nedmuldring, mens frigjøringshastighet styrer når organisk avfall blir plantetilgjengelig. Disse metodene opprettholder jordfruktbarhet og avlinger på husdyrløse bruk
-Detaljer: Belgvekster, Nord-Norge
 </document_analysis>
 
 <output_json>
