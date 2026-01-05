@@ -24,28 +24,12 @@ pipeline:
     max_tokens: 32768
     
   chunking:
-    chunking_mode: semantic_chunking
-    h_min: 2
-    h_max: 5
-    num_multihops_factor: 1
+    l_max_tokens: 4096      # Maximum chunk size
+    token_overlap: 512      # Overlap between chunks
   
   single_hop_question_generation:
     question_mode: open-ended 
     additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar. Ikke bruk ord NIBIO, NLR, Plantevernleksikonet, kilder, dokumenter"
-
-    
-  multi_hop_question_generation:
-    question_mode: open-ended
-    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar. Ikke bruk ord NIBIO, NLR, Plantevernleksikonet, kilder, dokumenter"
-
-    
-  cross_document_question_generation:
-    question_mode: open-ended
-    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar.  Ikke bruk ord NIBIO, NLR, Plantevernleksikonet, kilder, dokumenter"
-    max_combinations: 100
-    chunks_per_document: 100
-    num_docs_per_combination: [2, 5]
-    random_seed: 42
     
   prepare_lighteval:
   
