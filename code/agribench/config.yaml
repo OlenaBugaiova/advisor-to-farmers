@@ -31,6 +31,7 @@ pipeline:
   single_hop_question_generation:
     question_mode: open-ended 
     question_schema: schemas/single_hop_schema.py
+    single_hop_system_prompt: prompts/single_hop_system_promt.md
     
   prepare_lighteval:
   
