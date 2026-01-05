@@ -1,5 +1,5 @@
 hf_configuration:
-  hf_dataset_name: nor_agriculture_bench
+  hf_dataset_name: nor_agriculture_bench_demo
   hf_organization: norjordAI
   hf_token: $HF_TOKEN
   private: false 
@@ -10,8 +10,9 @@ hf_configuration:
   jsonl_export_dir: data/saved/jsonl
 
 model_list:
-  - model_name: norallm/normistral-11b-thinking-gguf
+  - model_name: norallm/normistral-11b-thinking
     base_url: http://localhost:8000/v1
+    max_concurrent_requests: 32
 
 pipeline:
   ingestion:
@@ -21,15 +22,15 @@ pipeline:
     llm_ingestion: false
     
   summarization:
-    max_tokens: 32768
+    max_tokens: 8192 # to try also 4096, 1024
     
   chunking:
-    l_max_tokens: 4096      # Maximum chunk size
-    token_overlap: 512      # Overlap between chunks
+    l_max_tokens: 4096      # Maximum chunk size, to try also 2048, 1024
+    token_overlap: 512      # Overlap between chunks, to try also 256
   
   single_hop_question_generation:
     question_mode: open-ended 
-    additional_instructions: "Lag spørsmål som du ville tenkt på hvis du var bonde. Var spesifikk. Gi et fullstendig svar. Ikke bruk ord NIBIO, NLR, Plantevernleksikonet, kilder, dokumenter"
+    question_schema: schemas/single_hop_schema.py
     
   prepare_lighteval:
   
