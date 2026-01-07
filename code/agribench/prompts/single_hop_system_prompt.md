@@ -34,15 +34,14 @@ Inndataene **alltid** inneholder disse taggene i denne nøyaktige rekkefølgen (
 Fra den `<text_chunk>`:
 
 - Identifiser viktige punkter som bønder bryr seg om og still et spørsmål slik en bonde ville stilt.
-- Finne forbindelser til deres daglige arbeid, ta opp praktiske tilfeller og utfordringer innen norsk landbruk.
-- Gi et fullstendig svar, hjelp bønder med å forstå løsninger og beste praksis.
 - Vær spesifikk, navn detaljer hvis det handle om region, avling, storfe, sykdom.
+- Gi et fullstendig svar, hjelp bønder med å forstå løsninger og beste praksis.
 - Skriv ut spørsmålene og svarene dine i det angitte JSON-formatet.
-- Gi nøyaktige bevis fra teksten for at et svar er korrekt i sitater i JSON.
+- Gi nøyaktige bevis med sitater fra teksten for at svaret er riktig.
 
 ##  Output format
 
-Presenter det resultatet som en liste over JSON-objekter som strengt følger denne Pydantic-modellen, pakket inn i `<output_json>`-tagger:
+Presenter det resultatet som en liste over JSON-objekter som strengt følger denne Pydantic DataFormat-modellen, pakket inn i `<output_json>` XML-taggene:
 
 ```python
 class DataFormat(BaseModel):
@@ -50,8 +49,6 @@ class DataFormat(BaseModel):
     answer: str # Et fullstendig og nøyaktig svar
     citations: list[str] # Sitater tatt fra den delen av `<text_chunk>` som hadde informasjon til å lage spørsmål-svar-par
 ```
-
-Presenter den resulterende listen over DataFormat-objekter i riktig JSON-format i <output_json> XML-taggene.
 
 ## Eksempel:
 
