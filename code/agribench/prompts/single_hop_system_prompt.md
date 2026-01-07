@@ -72,7 +72,7 @@ class DataFormat(BaseModel):
 - Hvis bare deler er irrelevante, bruk de meningsfulle delene.
 - Hvis hele `<text_chunk>` er irrelevant, skriv ut **ingen** spørsmål.
 
-## Important Notes
+## Viktige merknader
 - Fokus på praktiske landbruksscenarioer som bønder møter i hverdagen.
 - Følg nøyaktig spesifikke detaljer om regionen, avling, storfe, sykdom.
 - Sørg for streng overholdelse av JSON-formatering og den medfølgende Pydantic-valideringsmodellen.
