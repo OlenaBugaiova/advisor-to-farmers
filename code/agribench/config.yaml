@@ -1,8 +1,8 @@
 hf_configuration:
-  hf_dataset_name: nor_agriculture_bench_demo
+  hf_dataset_name: nor_agriculture_bench_test_brief_prompt_multi
   hf_organization: norjordAI
   hf_token: $HF_TOKEN
-  private: true 
+  private: true
   upload_card: true
   local_saving: true
   export_jsonl: true
@@ -20,24 +20,23 @@ pipeline:
     output_dir: data/processed
     upload_to_hub: false
     llm_ingestion: false
-    
+
   summarization:
-    max_tokens: 4096 # to try also 4096, 1024
+    max_tokens: 8192 # to try also 4096, 1024
     summarization_user_prompt: prompts/summarization_user_prompt.md
     combine_summaries_user_prompt: prompts/combine_summaries_user_prompt.md
-    
+
   chunking:
     l_max_tokens: 1024      # Maximum chunk size, to try also 2048, 1024
     token_overlap: 256      # Overlap between chunks, to try also 256
-  
+
   single_hop_question_generation:
-    question_mode: open-ended 
+    question_mode: open-ended
     question_schema: schemas/single_hop_schema.py
-    single_hop_system_prompt: prompts/single_hop_system_prompt.md
-    
+    single_hop_system_prompt: prompts/single_hop_system_promt.md
+
   prepare_lighteval:
-  
+
   citation_score_filtering:
     alpha: 0.7
     beta: 0.3
-
