@@ -1,8 +1,8 @@
 hf_configuration:
-  hf_dataset_name: nor_agriculture_bench_test_brief_prompt_multi
+  hf_dataset_name: nor_agriculture_bench
   hf_organization: norjordAI
   hf_token: $HF_TOKEN
-  private: true
+  private: false
   upload_card: true
   local_saving: true
   export_jsonl: true
@@ -41,7 +41,6 @@ pipeline:
     
   cross_document_question_generation:
     question_mode: open-ended
-    cross_document_system_prompt: prompts/multi_hop_system_prompt.md
     max_combinations: 100 # default is 100
     chunks_per_document: 1 # default is 1
     num_docs_per_combination:
