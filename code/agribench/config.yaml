@@ -22,21 +22,22 @@ pipeline:
     llm_ingestion: false
 
   summarization:
-    max_tokens: 8192 # to try also 4096, 1024
+    max_tokens: 16384 
     summarization_user_prompt: prompts/summarization_user_prompt.md
     combine_summaries_user_prompt: prompts/combine_summaries_user_prompt.md
 
   chunking:
-    l_max_tokens: 1024      # Maximum chunk size, to try also 2048, 1024
-    token_overlap: 256      # Overlap between chunks, to try also 256
+    l_max_tokens: 1024     
+    token_overlap: 256
 
   single_hop_question_generation:
     question_mode: open-ended
-    question_schema: schemas/single_hop_schema.py
+    question_schema: schemas/data_output_schema.py.py
     single_hop_system_prompt: prompts/single_hop_system_prompt.md
     
   multi_hop_question_generation:
     question_mode: open-ended
+    question_schema: schemas/data_output_schema.py.py
     multi_hop_system_prompt: prompts/multi_hop_system_prompt.md
     
   cross_document_question_generation:
