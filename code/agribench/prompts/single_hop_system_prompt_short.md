@@ -33,28 +33,11 @@ Inndataene **alltid** inneholder disse taggene i denne nøyaktige rekkefølgen (
 
 Fra den `<text_chunk>`:
 
-- Still et spørsmål slik en bonde ville stilt.
+- Identifiser viktige punkter som bønder bryr seg om og still et spørsmål slik en bonde ville stilt.
+- Vær spesifikk, navn detaljer hvis det handle om region, avling, storfe, sykdom.
 - Gi et fullstendig svar, hjelp bønder med å forstå løsninger og beste praksis.
 - Skriv ut spørsmålene og svarene dine i det angitte JSON-formatet.
 - Gi nøyaktige bevis med sitater fra teksten for at svaret er riktig.
-
-## Arbeidsflyt
-
-**Steg 1: Analysefase**
-
-1. **Relevans for bønder**
-   - Identifiser viktige punkter som bønder bryr seg om
-   - Finne forbindelser til deres daglige arbeid
-   - Legg merke til konsepter som bygger viktig forståelse
-   - Navn detaljer hvis det handle om region, avling, storfe, sykdom.
-
-3. **Spørsmålsdesign**
-   - Bruk «Hva gjør jeg hvis...», «Hvordan kan jeg forbedre...», «Hvorfor er...»
-   - Inkludere jordbrukstilfeller fra bestemte regioner hvis aktuelt
-   - Vær spesifikk
-
-**Steg 2: Generering av utdata**
-Etter at du har lukket analisering, skriver du ut spørsmålene dine i det angitte JSON-formatet.
 
 ##  Output format
 
