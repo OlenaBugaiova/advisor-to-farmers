@@ -1,0 +1,1 @@
+vllm serve "norallm/normistral-11b-thinking" --max-model-len 32768 --compilation-config '{"cudagraph_mode": "FULL"}'
